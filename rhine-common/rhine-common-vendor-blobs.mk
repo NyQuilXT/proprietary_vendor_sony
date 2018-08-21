@@ -508,7 +508,8 @@ PRODUCT_COPY_FILES += \
 	vendor/sony/rhine-common/proprietary/vendor/lib/libsony_face.so:system/vendor/lib/libsony_face.so \
 	vendor/sony/rhine-common/proprietary/vendor/lib/libsystem_health_mon.so:system/vendor/lib/libsystem_health_mon.so \
 	vendor/sony/rhine-common/proprietary/vendor/lib/libtzdrmgenprov.so:system/vendor/lib/libtzdrmgenprov.so \
-	vendor/sony/rhine-common/proprietary/vendor/lib/libvendorconn.so:system/vendor/lib/libvendorconn.so \
+	vendor/sony/rhine-common/proprietary/vendor/lib/libuiblur.so:system/vendor/lib/libuiblur.so \
+        vendor/sony/rhine-common/proprietary/vendor/lib/libvendorconn.so:system/vendor/lib/libvendorconn.so \
 	vendor/sony/rhine-common/proprietary/vendor/lib/libwqe.so:system/vendor/lib/libwqe.so \
 	vendor/sony/rhine-common/proprietary/vendor/lib/libxml.so:system/vendor/lib/libxml.so \
 	vendor/sony/rhine-common/proprietary/vendor/lib/libwvdrm_L3.so:system/vendor/lib/libwvdrm_L3.so \
